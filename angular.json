@@ -11,7 +11,7 @@
       "prefix": "app",
       "architect": {
         "build": {
-          "outputPath": "dist/movieApp",
+          "outputPath": "dist/movie-app",
           "builder": "@angular/build:application",
           "options": {
             "browser": "src/main.ts",
